@@ -1,12 +1,13 @@
-#TodoApp using React Hooks, and jsonServer for persisting data on mocked-up restEndpoints
+### TodoApp using React Hooks, and jsonServer for persisting data on mocked-up restEndpoints
 [NOTE]: After cloning and runing [npm install] to install all dependencies
-## 1.  Change directory in your terminal into the [db] folder inside this app, and  run [json-server --watch todos.json] to startup the server and restEndpoint
 
-## 2. After you can check if the server is live, by checking in your browser using [http://localhost:3000/todos]
+#### 1.  Change directory in your terminal into the [db] folder inside this app, and  run [json-server --watch todos.json] to startup the server and restEndpoint
 
-## 3. If the data displays in the browser window, you can now [cd to src folder] and run [npm start] to start you application and test it out
+#### 2. After you can check if the server is live, by checking in your browser using [http://localhost:3000/todos]
 
-## It supports [Adding a todo, deleting a todo and editing a todo]
+#### 3. If the data displays in the browser window, you can now [cd to src folder] and run [npm start] to start you application and test it out
+
+#### It supports [Adding a todo, deleting a todo and editing a todo]
 
 
 # Getting Started with Create React App
