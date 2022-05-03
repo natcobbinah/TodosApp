@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "text": "play with the kids after school"
+    },
+    {
+      "id": 3,
+      "text": "read bible"
+    },
+    {
+      "id": "111bc0a4-d17c-453a-a5fd-786cd61f526f",
+      "text": "finishing writing hooks chapter"
+    },
+    {
+      "id": "a90f9ae6-30db-453c-93d9-1a2c0d45d172",
+      "text": "Bought a new item"
+    }
+  ]
+}
